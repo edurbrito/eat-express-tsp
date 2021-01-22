@@ -1,0 +1,15 @@
+4
+restaurant
+2
+25
+58
+fast_food
+2
+10
+73
+pizza
+1
+13
+vegetarian
+1
+80
